@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Captain America" ,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/41eda53vWaL.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Black Panther",
+        "image": "http://nerdreactor.com/wp-content/uploads/2015/10/black_panther_el_capitan_poster-500x500_c.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Iron Man",
+        "image": "https://i1.sndcdn.com/artworks-000128116070-mzte7r-t500x500.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Ant Man",
+        "image": "http://nerdreactor.com/wp-content/uploads/2015/05/ant-man-BF_Payoff_1-Sht_v8_Lg-thumb-500x500_c.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Hawkeye",
+        "image": "https://static.comicvine.com/uploads/original/11/113509/4411572-hawkeye+2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Thor",
+        "image": "https://static.tvtropes.org/pmwiki/pub/images/mcu_thor.png",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Dr. Strange",
+        "image": "https://pbs.twimg.com/profile_images/817369685192605696/iWkgUdBf_400x400.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Hulk",
+        "image": "http://www-deadline-com.vimg.net/wp-content/uploads/2013/03/hulk-ruffalo__130308150754.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Scarlett Witch",
+        "image": "http://nerdreactor.com/wp-content/uploads/2015/01/avengers_age_of_ultron_scarlet_witch_comiccon-500x500_c.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Spider Man",
+        "image": "https://pixel.nymag.com/imgs/daily/vulture/2017/06/30/30-spiderman.w700.h700.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Black Widow",
+        "image": "http://larkable.com/wp-content/uploads/2014/02/the-avengers-black-widow.png",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Deadpool",
+        "image": "https://m.media-amazon.com/images/S/aplus-media/vc/dda730b2-1344-4f00-8322-34f905318277._CR0,0,300,300_PT0_SX300__.jpg",
+        "clicked": false
+    }
+]
